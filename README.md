@@ -1,4 +1,5 @@
 Poiect IP Snake
 ===============
 
-Proiect la IP pentru finaul de an.
+Proiect la IP pentru finalul de an.
+
